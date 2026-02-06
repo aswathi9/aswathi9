@@ -8,7 +8,7 @@
 - 🧑‍💼 I worked as a Full Stack Developer at Delloite USI and have an undergraduate degree in Electronics and Communication Engineering from PES University.
 - 📋 I have completed a couple of AWS Certifications
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aswathi9&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aswathi9&show_icons=true&cache_seconds=1800)
 
 
 
